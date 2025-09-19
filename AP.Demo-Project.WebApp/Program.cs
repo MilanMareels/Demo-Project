@@ -1,4 +1,5 @@
 using AP.Demo_Project.WebApp.Components;
+using FluentValidation;
 
 namespace AP.Demo_Project.WebApp
 {
@@ -11,6 +12,8 @@ namespace AP.Demo_Project.WebApp
             // Add services to the container.
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents();
+            // Scan de assembly voor validators en registreer ze
+           
 
             var app = builder.Build();
 

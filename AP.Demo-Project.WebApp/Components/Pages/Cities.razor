@@ -1,0 +1,43 @@
+﻿@page "/cities"
+@using AP.Demo_Project.WebApp.Entities
+@rendermode InteractiveServer
+
+<h3>Cities</h3>
+
+<section>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Population</th>
+                <th scope="col">Country</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var city in cities)
+            {
+                <tr>
+                    <th scope="row">@city.Id</th>
+                    <td>@city.Name</td>
+                    <td>@city.Population</td>
+                    <td>@city.Country</td>
+                    <td>
+                        <a href="updateCity/@city.Id" class="btn btn-primary btn-sm me-1">
+                            <span class="bi bi-pencil-square" aria-hidden="true"></span> Update
+                        </a>
+                        <button class="btn btn-danger btn-sm"
+                                @onclick="() => DeleteCity(city.Id)">
+                            <span class="bi bi-trash" aria-hidden="true"></span> Delete
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="addCity" class="btn btn-primary">
+        <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Add City
+    </a>
+</section>

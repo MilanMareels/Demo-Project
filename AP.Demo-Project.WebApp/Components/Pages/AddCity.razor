@@ -1,0 +1,47 @@
+﻿@page "/addCity"
+@rendermode InteractiveServer
+
+<h3>Stad toevoegen</h3>
+<p>Als gebruiker wil ik een stad kunnen toevoegen.</p>
+
+<EditForm Model="@cityModel" OnValidSubmit="HandleValidSubmit" FormName="AddCityForm">
+
+    @* Deze standaard component activeert de validatie in ons model *@
+    <DataAnnotationsValidator />
+
+    <div class="mb-3">
+        <label for="name" class="form-label">Naam</label>
+        <InputText id="name" class="form-control" @bind-Value="cityModel.Name" />
+        <ValidationMessage For="@(() => cityModel.Name)" />
+    </div>
+
+    <div class="mb-3">
+        <label for="population" class="form-label">Aantal inwoners</label>
+        <InputNumber id="population" class="form-control" @bind-Value="cityModel.Population" />
+        <ValidationMessage For="@(() => cityModel.Population)" />
+    </div>
+
+    <div class="mb-3">
+        <label for="country" class="form-label">Land</label>
+        <InputSelect id="country" class="form-select" @bind-Value="cityModel.CountryId">
+            <option value="">-- Kies een land --</option>
+            @foreach (var country in countries)
+            {
+                <option value="@country.Id">@country.Name</option>
+            }
+        </InputSelect>
+        <ValidationMessage For="@(() => cityModel.CountryId)" />
+    </div>
+
+    @* Toont alle overige validatieberichten bovenaan *@
+    <ValidationSummary />
+
+    @if (!string.IsNullOrEmpty(serverErrorMessage))
+    {
+        <div class="alert alert-danger" role="alert">
+            @serverErrorMessage
+        </div>
+    }
+
+    <button type="submit" class="btn btn-primary">Toevoegen</button>
+</EditForm>

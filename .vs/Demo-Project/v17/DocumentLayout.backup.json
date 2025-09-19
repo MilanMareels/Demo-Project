@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.application\\ap.demo-project.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\ap.demo-project.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.webapp\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.webapp\\components\\pages\\addcity.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\addcity.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.webapp\\components\\pages\\addcity.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\addcity.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AP.Demo-Project.Application",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj",
-              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj",
-              "RelativeToolTip": "AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-19T08:17:24.296Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -36,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityModel.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Models\\CityModel.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Models\\CityModel.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Models\\CityModel.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Models\\CityModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:52:30.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCity.razor.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:50:11.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCity.razor",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T10:14:42.938Z",
+              "EditorCaption": ""
             }
           ]
         },
