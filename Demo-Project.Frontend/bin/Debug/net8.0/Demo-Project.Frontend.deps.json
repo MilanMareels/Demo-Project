@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Demo-Project.Frontend/1.0.0": {
+        "runtime": {
+          "Demo-Project.Frontend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo-Project.Frontend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
