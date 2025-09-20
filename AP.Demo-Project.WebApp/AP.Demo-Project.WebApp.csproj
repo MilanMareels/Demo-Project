@@ -8,4 +8,10 @@
     <AssemblyName>$(AssemblyName.Replace(' ', '_'))</AssemblyName>
   </PropertyGroup>
 
+	<ItemGroup>
+		<ProjectReference Include="..\AP.Demo-Project.Application\AP.Demo-Project.Application.csproj" />
+		<ProjectReference Include="..\AP.Demo-Project.Infrastructure\AP.Demo-Project.Infrastructure.csproj" />
+		<ProjectReference Include="..\AP.Demo-Project.Domain\AP.Demo-Project.Domain.csproj" />
+	</ItemGroup>
+
 </Project>

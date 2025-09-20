@@ -1,4 +1,5 @@
 using AP.Demo_Project.WebApp.Components;
+using AP.Demo_Project.Infrastructure.Extensions;
 
 namespace AP.Demo_Project.WebApp
 {
@@ -11,6 +12,9 @@ namespace AP.Demo_Project.WebApp
             // Add services to the container.
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents();
+
+            // Register DbContext + repositories (ICityRepository) from Infrastructure
+            builder.Services.RegisterInfrastructure();
 
             var app = builder.Build();
 

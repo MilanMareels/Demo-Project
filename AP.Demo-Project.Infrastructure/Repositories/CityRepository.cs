@@ -1,0 +1,65 @@
+﻿using AP.Demo_Project.Application.Dto;
+using AP.Demo_Project.Application.Interfaces;
+using AP.Demo_Project.Domain;
+using AP.Demo_Project.Infrastructure.Contexts;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace AP.Demo_Project.Infrastructure.Repositories
+{
+    public class CityRepository : GenericRepository<City>, ICityRepository
+    {
+        private readonly DemoContext context;
+
+        public CityRepository(DemoContext context) : base(context)
+        {
+            this.context = context;
+        }
+
+        public Task<CityDTO> AddCity(CityDTO city)
+        {
+            // Server-side validation (same rules as client)
+            if (string.IsNullOrWhiteSpace(city.Name))
+                throw new ArgumentException("Name is required.", nameof(city.Name));
+
+            if (city.Population < 0 || city.Population > 10_000_000_000L)
+                throw new ArgumentOutOfRangeException(nameof(city.Population), "Population must be between 0 and 10,000,000,000.");
+
+            if (city.CountryId <= 0)
+                throw new ArgumentOutOfRangeException(nameof(city.CountryId), "A country must be selected.");
+
+            // Uniqueness check (pre-check)
+            var normalizedName = city.Name.Trim();
+            if (context.Cities.Any(c => c.Name == normalizedName))
+                throw new InvalidOperationException("A city with this name already exists.");
+
+            var entity = new City
+            {
+                Name = normalizedName,
+                Population = city.Population,
+                CountryId = city.CountryId
+            };
+
+            context.Cities.Add(entity);
+
+            try
+            {
+                context.SaveChanges();
+            }
+            catch (DbUpdateException ex)
+            {
+                throw new InvalidOperationException("A city with this name already exists.", ex);
+            }
+
+            return Task.FromResult(new CityDTO
+            {
+                Name = entity.Name,
+                Population = entity.Population,
+                CountryId = entity.CountryId
+            });
+        }
+    }
+}

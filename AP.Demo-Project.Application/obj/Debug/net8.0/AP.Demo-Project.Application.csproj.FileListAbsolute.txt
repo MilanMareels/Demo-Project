@@ -1,0 +1,12 @@
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Application.deps.json
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Application.dll
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Application.pdb
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.sourcelink.json
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.dll
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\refint\AP.Demo-Project.Application.dll
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.pdb
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\ref\AP.Demo-Project.Application.dll
