@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7hShiePTFBU=",
+  "dgSpecHash": "Prv9Vu/D8Nk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

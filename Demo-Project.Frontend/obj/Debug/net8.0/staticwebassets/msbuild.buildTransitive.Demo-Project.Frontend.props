@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Demo-Project.Frontend.props" />
-</Project>

@@ -1,4 +1,5 @@
-﻿using AP.Demo_Project.Application.Dto;
+﻿using AP.Demo_Project.Application.CQRS.City;
+using AP.Demo_Project.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace AP.Demo_Project.Application.Interfaces
 {
-    public interface ICityRepository
+    public interface ICityRepository : IGenericRepository<City>
     {
-        Task<CityDTO> AddCity(CityDTO city);
+        Task<CityDetailDTO> AddCity(CityDetailDTO city);
     }
 }

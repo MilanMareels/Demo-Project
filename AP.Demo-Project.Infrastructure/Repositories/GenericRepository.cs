@@ -13,6 +13,11 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             this.dbSet = context.Set<T>();
         }
 
+        public async Task<IEnumerable<T>> GetAll(int pageNr, int pageSize)
+        {
+            return await dbSet.Skip((pageNr - 1) * pageSize).Take(pageSize).ToListAsync();
+        }
+
         public async Task<T> AddAsync(T entity)
         {
             await dbSet.AddAsync(entity);

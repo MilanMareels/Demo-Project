@@ -1,12 +1,8 @@
-﻿using AP.Demo_Project.Application.Dto;
+﻿using AP.Demo_Project.Application.CQRS.City;
 using AP.Demo_Project.Application.Interfaces;
 using AP.Demo_Project.Domain;
 using AP.Demo_Project.Infrastructure.Contexts;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace AP.Demo_Project.Infrastructure.Repositories
 {
@@ -19,13 +15,13 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             this.context = context;
         }
 
-        public Task<CityDTO> AddCity(CityDTO city)
+        public Task<CityDetailDTO> AddCity(CityDetailDTO city)
         {
             // Server-side validation (same rules as client)
             if (string.IsNullOrWhiteSpace(city.Name))
                 throw new ArgumentException("Name is required.", nameof(city.Name));
 
-            if (city.Population < 0 || city.Population > 10_000_000_000L)
+            if (city.Population <= 0 || city.Population > 10_000_000_000L)
                 throw new ArgumentOutOfRangeException(nameof(city.Population), "Population must be between 0 and 10,000,000,000.");
 
             if (city.CountryId <= 0)
@@ -54,7 +50,7 @@ namespace AP.Demo_Project.Infrastructure.Repositories
                 throw new InvalidOperationException("A city with this name already exists.", ex);
             }
 
-            return Task.FromResult(new CityDTO
+            return Task.FromResult(new CityDetailDTO
             {
                 Name = entity.Name,
                 Population = entity.Population,
