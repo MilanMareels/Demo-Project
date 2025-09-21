@@ -1,6 +1,7 @@
 ﻿using AP.Demo_Project.Application.CQRS.City;
 using AP.Demo_Project.Application.Interfaces;
 using AP.Demo_Project.Domain;
+using MediatR;
 using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -11,17 +12,19 @@ namespace AP.Demo_Project.WebAPI.Controllers
     public class CityController : APIv1Controller
     {
         private readonly ICityService cityService;
+        private readonly IMediator mediator;
 
-        public CityController(ICityService cityService) 
+        public CityController(ICityService cityService, IMediator mediator) 
         {
             this.cityService = cityService;
+            this.mediator = mediator;
         }
 
         [HttpGet]
         public async Task<IActionResult> GetAllCities([FromQuery] int pageNr = 1, [FromQuery] int pageSize = 5, [FromQuery] string sortBy = "Population", [FromQuery] string sortOrder = "asc")
         {
-           return Ok(await cityService.GetAll(pageNr, pageSize, sortBy, sortOrder));
-            //return Ok(await mediator.Send(new GetAllPeopleQuery() { PageNr = pageNr, PageSize = pageSize }));
+           //return Ok(await cityService.GetAll(pageNr, pageSize, sortBy, sortOrder));
+            return Ok(await mediator.Send(new GetAllCitiesQuery() { PageNr = pageNr, PageSize = pageSize, SortBy = sortBy, SortOrder = sortOrder }));
         }
 
         [HttpPost]

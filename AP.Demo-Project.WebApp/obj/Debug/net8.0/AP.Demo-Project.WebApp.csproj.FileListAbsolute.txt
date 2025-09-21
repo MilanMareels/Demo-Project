@@ -189,3 +189,9 @@ C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo P
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\AP.Demo-Project.WebApp.pdb
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\AP.Demo-Project.WebApp.genruntimeconfig.cache
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\ref\AP.Demo-Project.WebApp.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\MediatR.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
