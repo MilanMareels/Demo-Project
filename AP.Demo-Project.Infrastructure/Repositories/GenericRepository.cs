@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace AP.Demo_Project.Infrastructure.Repositories
 {
@@ -13,10 +14,21 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             this.dbSet = context.Set<T>();
         }
 
-        public async Task<IEnumerable<T>> GetAll(int pageNr, int pageSize)
+        public async Task<IEnumerable<T>> GetAll(int pageNr,int pageSize,params Expression<Func<T, object>>[] includes)
         {
-            return await dbSet.Skip((pageNr - 1) * pageSize).Take(pageSize).ToListAsync();
+            IQueryable<T> query = dbSet;
+
+            foreach (var include in includes)
+            {
+                query = query.Include(include);
+            }
+
+            return await query
+                .Skip((pageNr - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
         }
+
 
         public async Task<T> AddAsync(T entity)
         {

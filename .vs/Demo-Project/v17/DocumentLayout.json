@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.application\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.infrastructure\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.webapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|solutionrelative:ap.demo-project.webapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,45 +70,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CityService.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\Services\\CityService.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Services\\CityService.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\Services\\CityService.cs",
-              "RelativeToolTip": "AP.Demo-Project.Application\\Services\\CityService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T07:18:53.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
-              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T07:18:50.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebAPI\\Controllers\\CityController.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.WebAPI\\Controllers\\CityController.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebAPI\\Controllers\\CityController.cs",
-              "RelativeToolTip": "AP.Demo-Project.WebAPI\\Controllers\\CityController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T06:54:25.75Z",
-              "EditorCaption": ""
             }
           ]
         },
