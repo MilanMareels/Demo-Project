@@ -1,4 +1,5 @@
 ﻿using AP.Demo_Project.Application.CQRS.City;
+using AP.Demo_Project.Application.CQRS.Country;
 using AP.Demo_Project.Application.Interfaces;
 using AP.Demo_Project.Domain;
 using System;
@@ -18,10 +19,34 @@ namespace AP.Demo_Project.Application.Services
             this.uow = uow;
         }
 
-        public async Task<IEnumerable<City>> GetAll(int pageNr, int pageSize)
+        public async Task<IEnumerable<CityWithCountryDTO>> GetAll(int pageNr, int pageSize, string sortBy, string sortOrder)
         {
-            return await uow.CityRepository.GetAll(pageNr,pageSize);
+            var cities = await uow.CityRepository.GetAll(pageNr, pageSize, c => c.Country);
+
+            // Sorting
+            cities = (sortBy.ToLower(), sortOrder.ToLower()) switch
+            {
+                ("population", "asc") => cities.OrderBy(c => c.Population),
+                ("population", "desc") => cities.OrderByDescending(c => c.Population),
+                ("name", "asc") => cities.OrderBy(c => c.Name),
+                ("name", "desc") => cities.OrderByDescending(c => c.Name),
+                _ => cities.OrderBy(c => c.Id)
+            };
+
+            return cities.Select(c => new CityWithCountryDTO
+            {
+                Id = c.Id,
+                Name = c.Name,
+                Population = c.Population,
+                CountryId = c.CountryId,
+                Country = new CountryDTO
+                {
+                    Id = c.Country.Id,
+                    Name = c.Country.Name
+                }
+            });
         }
+
 
         public async Task<CityDetailDTO> Add(CityDetailDTO city)
         {

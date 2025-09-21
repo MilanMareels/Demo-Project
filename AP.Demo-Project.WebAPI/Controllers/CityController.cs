@@ -18,9 +18,9 @@ namespace AP.Demo_Project.WebAPI.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAllCities([FromQuery] int pageNr = 1, [FromQuery] int pageSize = 2)
+        public async Task<IActionResult> GetAllCities([FromQuery] int pageNr = 1, [FromQuery] int pageSize = 5, [FromQuery] string sortBy = "Population", [FromQuery] string sortOrder = "asc")
         {
-           return Ok(await cityService.GetAll(pageNr, pageSize));
+           return Ok(await cityService.GetAll(pageNr, pageSize, sortBy, sortOrder));
             //return Ok(await mediator.Send(new GetAllPeopleQuery() { PageNr = pageNr, PageSize = pageSize }));
         }
 

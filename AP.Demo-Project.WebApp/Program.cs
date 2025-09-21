@@ -13,8 +13,13 @@ namespace AP.Demo_Project.WebApp
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents();
 
-            // Register DbContext + repositories (ICityRepository) from Infrastructure
-            builder.Services.RegisterInfrastructure();
+            builder.Services.AddScoped<HttpClient>(sp =>
+            {
+                return new HttpClient
+                {
+                    BaseAddress = new Uri("http://localhost:5028/") // API base URL
+                };
+            });
 
             var app = builder.Build();
 
