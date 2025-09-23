@@ -11,10 +11,6 @@ namespace AP.Demo_Project.Application.CQRS.City
     {
         public int Id { get; set; }
 
-        [Required(ErrorMessage = "Name is required")]
-        [StringLength(60, ErrorMessage = "Name cannot exceed 60 characters")]
-        public string Name { get; set; } = string.Empty;
-
         [Range(typeof(long), "0", "10000000000", ErrorMessage = "Population must be between 0 and 10,000,000,000")]
         public long Population { get; set; }
 

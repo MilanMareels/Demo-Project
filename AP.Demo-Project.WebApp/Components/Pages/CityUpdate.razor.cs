@@ -1,6 +1,5 @@
 ﻿
 using AP.Demo_Project.WebApp.DTO;
-using AP.Demo_Project.Application.CQRS.City;
 using Microsoft.AspNetCore.Components;
 
 
@@ -8,7 +7,7 @@ namespace AP.Demo_Project.WebApp.Components.Pages{
     public partial class CityUpdate
     {
         [Parameter] public int CityId { get; set; }
-        private CityDTO? city;
+        private CityUpdateDTO? city;
         private bool isLoading = true;
 
         protected override async Task OnInitializedAsync()
@@ -20,7 +19,11 @@ namespace AP.Demo_Project.WebApp.Components.Pages{
         {
             try
             {
-                city = await Http.GetFromJsonAsync<CityDTO>($"api/v1/City/{CityId}");
+                var cityFromApi = await Http.GetFromJsonAsync<CityUpdateDTO>($"api/v1/City/{CityId}");
+                if (cityFromApi != null)
+                {
+                    city = cityFromApi;
+                }
             }
             catch (Exception ex)
             {
@@ -34,6 +37,8 @@ namespace AP.Demo_Project.WebApp.Components.Pages{
 
         private async Task UpdateCity()
         {
+            if (city == null) return;
+
             try
             {
                 var response = await Http.PutAsJsonAsync($"api/v1/City/{CityId}", city);

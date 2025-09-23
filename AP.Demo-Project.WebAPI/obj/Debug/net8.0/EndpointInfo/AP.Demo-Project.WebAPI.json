@@ -196,19 +196,11 @@
         "additionalProperties": false
       },
       "CityUpdateDTO": {
-        "required": [
-          "name"
-        ],
         "type": "object",
         "properties": {
           "id": {
             "type": "integer",
             "format": "int32"
-          },
-          "name": {
-            "maxLength": 60,
-            "minLength": 0,
-            "type": "string"
           },
           "population": {
             "maximum": 10000000000,

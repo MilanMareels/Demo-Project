@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{585A5041-4002-43E1-B098-A2DEFC45E057}|Unittests\\Unittests.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\unittests\\cityupdatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{585A5041-4002-43E1-B098-A2DEFC45E057}|Unittests\\Unittests.csproj|solutionrelative:unittests\\cityupdatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B2F515D-EADE-472C-B7F5-DCCC933941A1}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.webapp\\components\\pages\\cityupdate.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F515D-EADE-472C-B7F5-DCCC933941A1}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\cityupdate.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{585A5041-4002-43E1-B098-A2DEFC45E057}|Unittests\\Unittests.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\unittests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{585A5041-4002-43E1-B098-A2DEFC45E057}|Unittests\\Unittests.csproj|solutionrelative:unittests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B2F515D-EADE-472C-B7F5-DCCC933941A1}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.webapp\\dto\\cityupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2F515D-EADE-472C-B7F5-DCCC933941A1}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\dto\\cityupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B2F515D-EADE-472C-B7F5-DCCC933941A1}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.webapp\\components\\pages\\addcity.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B2F515D-EADE-472C-B7F5-DCCC933941A1}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\addcity.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B2F515D-EADE-472C-B7F5-DCCC933941A1}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.webapp\\components\\pages\\cityupdate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B2F515D-EADE-472C-B7F5-DCCC933941A1}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\cityupdate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B3C811-254A-40A4-A478-684F919070F2}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.infrastructure\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B3C811-254A-40A4-A478-684F919070F2}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 16,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CityUpdateTests.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\Unittests\\CityUpdateTests.cs",
-              "RelativeDocumentMoniker": "Unittests\\CityUpdateTests.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\Unittests\\CityUpdateTests.cs",
-              "RelativeToolTip": "Unittests\\CityUpdateTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T15:44:20.126Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -100,27 +91,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\Unittests\\MSTestSettings.cs",
-              "RelativeDocumentMoniker": "Unittests\\MSTestSettings.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\Unittests\\MSTestSettings.cs",
-              "RelativeToolTip": "Unittests\\MSTestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CityUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\DTO\\CityUpdateDTO.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\DTO\\CityUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\DTO\\CityUpdateDTO.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\DTO\\CityUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T15:44:17.82Z",
+              "WhenOpened": "2025-09-23T16:42:14.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityUpdate.razor.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T16:40:38.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AddCity.razor.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor.cs",
-              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Title": "CityUpdate.razor",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T16:40:37.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T15:43:03.222Z",
+              "WhenOpened": "2025-09-23T16:40:24.756Z",
               "EditorCaption": ""
             }
           ]

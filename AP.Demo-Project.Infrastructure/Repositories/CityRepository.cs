@@ -79,21 +79,13 @@ namespace AP.Demo_Project.Infrastructure.Repositories
                 throw new KeyNotFoundException("City not found.");
 
             // Server-side validation
-            if (string.IsNullOrWhiteSpace(city.Name))
-                throw new ArgumentException("Name is required.", nameof(city.Name));
-
             if (city.Population <= 0 || city.Population > 10_000_000_000L)
                 throw new ArgumentOutOfRangeException(nameof(city.Population), "Population must be between 0 and 10,000,000,000.");
 
             if (city.CountryId <= 0)
                 throw new ArgumentOutOfRangeException(nameof(city.CountryId), "A country must be selected.");
 
-            // Uniqueness check
-            var normalizedName = city.Name.Trim();
-            if (context.Cities.Any(c => c.Name == normalizedName && c.Id != city.Id))
-                throw new InvalidOperationException("A city with this name already exists.");
-
-            entity.Name = normalizedName;
+        
             entity.Population = city.Population;
             entity.CountryId = city.CountryId;
 
@@ -102,7 +94,6 @@ namespace AP.Demo_Project.Infrastructure.Repositories
 
             return new CityDetailDTO
             {
-                Name = entity.Name,
                 Population = entity.Population,
                 CountryId = entity.CountryId
             };
