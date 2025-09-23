@@ -1,6 +1,7 @@
 ﻿using AP.Demo_Project.Domain;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace AP.Demo_Project.Infrastructure.Repositories
 {
@@ -39,6 +40,11 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             return await query.ToListAsync();
         }
 
+        public async Task<IEnumerable<T>> GetCitiesAll()
+        {
+            return await dbSet.ToListAsync();
+        }
+
 
 
         public async Task<T> AddAsync(T entity)
@@ -46,6 +52,11 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             await dbSet.AddAsync(entity);
             await context.SaveChangesAsync();
             return entity;
+        }
+        public async Task DeleteAsync(T entity)
+        {
+            dbSet.Remove(entity);
+            await context.SaveChangesAsync();
         }
     }
 }

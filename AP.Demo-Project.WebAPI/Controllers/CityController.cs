@@ -46,9 +46,21 @@ namespace AP.Demo_Project.WebAPI.Controllers
         [HttpDelete]
         public async Task<IActionResult> DeleteCity(int id)
         {
-            // Hier de delete!
-            return NoContent();
+            try
+            {
+                await mediator.Send(new DeleteCityCommand { Id = id });
+                return NoContent();
+            }
+            catch (KeyNotFoundException ex)
+            {
+                return NotFound(ex.Message);
+            }
+            catch (InvalidOperationException ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
+
 
         [Route("{id}")]
         [HttpPut]

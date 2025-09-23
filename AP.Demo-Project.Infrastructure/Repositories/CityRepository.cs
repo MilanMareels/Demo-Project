@@ -57,5 +57,11 @@ namespace AP.Demo_Project.Infrastructure.Repositories
                 CountryId = entity.CountryId
             });
         }
+        public async Task DeleteAsync(City city)
+        {
+            context.Cities.Remove(city);
+            await context.SaveChangesAsync();
+        }
+
     }
 }

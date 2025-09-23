@@ -48,6 +48,9 @@ else
                     <td>@city.Name</td>
                     <td>@city.Population</td>
                     <td>@city.Country?.Name</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm" @onclick="() => DeleteCity(city.Id)">Delete</button>
+                    </td>
                 </tr>
             }
         </tbody>

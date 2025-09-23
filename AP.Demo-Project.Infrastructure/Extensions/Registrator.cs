@@ -1,6 +1,7 @@
 ﻿using AP.Demo_Project.Application.Interfaces;
 using AP.Demo_Project.Infrastructure.Contexts;
 using AP.Demo_Project.Infrastructure.Repositories;
+using AP.Demo_Project.Infrastructure.Services;
 using AP.Demo_Project.Infrastructure.UoW;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -13,6 +14,10 @@ namespace AP.Demo_Project.Infrastructure.Extensions
         {
             services.RegisterDbContext();
             services.RegisterRepositories();
+
+            // Email service
+            services.AddScoped<IEmailService, FakeEmailService>();
+
             return services;
         }
         public static IServiceCollection RegisterDbContext(this IServiceCollection services)
