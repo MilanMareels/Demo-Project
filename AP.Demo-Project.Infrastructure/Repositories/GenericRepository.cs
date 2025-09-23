@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AP.Demo_Project.Domain;
+using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
 namespace AP.Demo_Project.Infrastructure.Repositories
@@ -14,20 +15,30 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             this.dbSet = context.Set<T>();
         }
 
-        public async Task<IEnumerable<T>> GetAll(int pageNr,int pageSize,params Expression<Func<T, object>>[] includes)
+        public async Task<IEnumerable<City>> GetAll(int pageNr, int pageSize, string sortBy, string sortOrder, params Expression<Func<City, object>>[] includes)
         {
-            IQueryable<T> query = dbSet;
+            IQueryable<City> query = (IQueryable<City>)this.dbSet;
 
+            
             foreach (var include in includes)
             {
                 query = query.Include(include);
             }
+  
+            query = (sortBy?.ToLower(), sortOrder?.ToLower()) switch
+            {
+                ("population", "asc") => query.OrderBy(c => c.Population),
+                ("population", "desc") => query.OrderByDescending(c => c.Population),
+                ("name", "asc") => query.OrderBy(c => c.Name),
+                ("name", "desc") => query.OrderByDescending(c => c.Name),
+                _ => query.OrderBy(c => c.Id)
+            };
 
-            return await query
-                .Skip((pageNr - 1) * pageSize)
-                .Take(pageSize)
-                .ToListAsync();
+            query = query.Skip((pageNr - 1) * pageSize).Take(pageSize);
+
+            return await query.ToListAsync();
         }
+
 
 
         public async Task<T> AddAsync(T entity)

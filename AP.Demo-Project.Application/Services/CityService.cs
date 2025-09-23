@@ -24,9 +24,10 @@ namespace AP.Demo_Project.Application.Services
 
         public async Task<IEnumerable<CityWithCountryDTO>> GetAll(int pageNr, int pageSize, string sortBy, string sortOrder)
         {
-            var cities = await uow.CityRepository.GetAll(pageNr, pageSize, c => c.Country);
+            var cities = await uow.CityRepository.GetAll(pageNr, pageSize, sortBy,sortOrder,c => c.Country);
 
             // Sorting
+            /*
             cities = (sortBy.ToLower(), sortOrder.ToLower()) switch
             {
                 ("population", "asc") => cities.OrderBy(c => c.Population),
@@ -35,6 +36,7 @@ namespace AP.Demo_Project.Application.Services
                 ("name", "desc") => cities.OrderByDescending(c => c.Name),
                 _ => cities.OrderBy(c => c.Id)
             };
+            */
 
             return _mapper.Map<IEnumerable<CityWithCountryDTO>>(cities);
         }
