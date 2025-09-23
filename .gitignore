@@ -1,0 +1,15 @@
+# IDE caches
+.vs/
+.idea/
+.vscode/
+
+# Build outputs
+bin/
+obj/
+TestResults/
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates

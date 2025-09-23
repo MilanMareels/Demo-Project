@@ -18,23 +18,3 @@ C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\A
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.pdb
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.genruntimeconfig.cache
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\ref\AP.Demo-Project.Infrastructure.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\bin\Debug\net8.0\AP.Demo-Project.Infrastructure.deps.json
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\bin\Debug\net8.0\AP.Demo-Project.Infrastructure.runtimeconfig.json
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\bin\Debug\net8.0\AP.Demo-Project.Infrastructure.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\bin\Debug\net8.0\AP.Demo-Project.Infrastructure.pdb
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\bin\Debug\net8.0\AP.Demo-Project.Application.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\bin\Debug\net8.0\AP.Demo-Project.Domain.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\bin\Debug\net8.0\AP.Demo-Project.Application.pdb
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\bin\Debug\net8.0\AP.Demo-Project.Domain.pdb
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.AssemblyInfo.cs
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.sourcelink.json
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-.2707E26D.Up2Date
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\refint\AP.Demo-Project.Infrastructure.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.pdb
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\AP.Demo-Project.Infrastructure.genruntimeconfig.cache
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Infrastructure\obj\Debug\net8.0\ref\AP.Demo-Project.Infrastructure.dll
