@@ -7,8 +7,14 @@ C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\A
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AP.Demo-Project.WebApp.runtimeconfig.json
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AP.Demo-Project.WebApp.dll
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AP.Demo-Project.WebApp.pdb
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\MediatR.dll
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
@@ -86,13 +92,13 @@ C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\A
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\AP.Demo-.E64F1739.Up2Date
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\AP.Demo-Project.WebApp.dll
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\refint\AP.Demo-Project.WebApp.dll
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\AP.Demo-Project.WebApp.pdb
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\AP.Demo-Project.WebApp.genruntimeconfig.cache
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\ref\AP.Demo-Project.WebApp.dll
+C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\appsettings.json
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AP.Demo-Project.WebApp.staticwebassets.runtime.json
@@ -102,8 +108,14 @@ C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo P
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AP.Demo-Project.WebApp.runtimeconfig.json
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AP.Demo-Project.WebApp.dll
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AP.Demo-Project.WebApp.pdb
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\MediatR.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
@@ -189,9 +201,3 @@ C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo P
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\AP.Demo-Project.WebApp.pdb
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\AP.Demo-Project.WebApp.genruntimeconfig.cache
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\ref\AP.Demo-Project.WebApp.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\MediatR.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\MediatR.Contracts.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\FluentValidation.dll
-C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
