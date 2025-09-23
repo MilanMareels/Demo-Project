@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Kl+BRpxDlb0=",
+  "dgSpecHash": "vfIEdMP/3q4=",
   "success": true,
-  "projectFilePath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj",
+  "projectFilePath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\obj\\project.nuget.cache : Unexpected character encountered while parsing value: <. Path '', line 0, position 0."
+    }
+  ]
 }
