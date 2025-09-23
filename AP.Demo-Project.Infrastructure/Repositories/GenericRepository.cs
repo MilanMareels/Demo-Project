@@ -36,5 +36,10 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             await context.SaveChangesAsync();
             return entity;
         }
+        public async Task DeleteAsync(T entity)
+        {
+            dbSet.Remove(entity);
+            await context.SaveChangesAsync();
+        }
     }
 }

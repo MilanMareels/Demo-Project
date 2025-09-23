@@ -11,5 +11,7 @@ namespace AP.Demo_Project.Application.Interfaces
     public interface ICityRepository : IGenericRepository<City>
     {
         Task<CityDetailDTO> AddCity(CityDetailDTO city);
+        Task DeleteAsync(City city);
+
     }
 }

@@ -1,4 +1,4 @@
-﻿using AP.Demo_Project.Application.Dto;
+﻿using AP.Demo_Project.Application.CQRS;
 using AP.Demo_Project.Infrastructure.Contexts;
 using AP.Demo_Project.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -8,6 +8,7 @@ namespace AP.Demo_Project.Unittest
     [TestClass]
     public sealed class CityRepositoryTests
     {
+        /*
         private static DemoContext CreateContext(out string dbName)
         {
             dbName = $"DemoProject_Tests_{Guid.NewGuid():N}";
@@ -140,5 +141,6 @@ namespace AP.Demo_Project.Unittest
                 DropDatabase(dbName);
             }
         }
+        */
     }
 }

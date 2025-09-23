@@ -45,6 +45,28 @@ namespace AP.Demo_Project.WebApp.Components.Pages{
             pageNr = 1;
             await LoadCities();
         }
+        private async Task DeleteCity(int id)
+        {
+            try
+            {
+                var response = await Http.DeleteAsync($"api/v1/City/{id}");
+                if (response.IsSuccessStatusCode)
+                {
+                    await LoadCities();
+                    Console.WriteLine("City deleted successfully.");
+                }
+                else
+                {
+                    var message = await response.Content.ReadAsStringAsync();
+                    Console.WriteLine($"Error: {message}");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Exception: {ex.Message}");
+            }
+        }
+
 
         private async Task OnPageSizeChanged(ChangeEventArgs e)
         {

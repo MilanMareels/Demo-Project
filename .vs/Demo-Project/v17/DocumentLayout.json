@@ -1,26 +1,158 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\",
+  "WorkspaceRootPath": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.application\\mappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\mappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.infrastructure\\services\\fakeemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\services\\fakeemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.infrastructure\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapp\\components\\pages\\cities.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\cities.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|solutionrelative:ap.demo-project.webapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapp\\components\\pages\\cities.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\cities.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\cqrs\\city\\deletecitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\cqrs\\city\\deletecitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\cqrs\\city\\deletecitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\cqrs\\city\\deletecitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\cqrs\\city\\citywithcountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\cqrs\\city\\citywithcountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.infrastructure\\seeding\\cityseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\seeding\\cityseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B18A25B-10E6-4598-806A-ED3428BEA4F0}|AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.unittest\\cityrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B18A25B-10E6-4598-806A-ED3428BEA4F0}|AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj|solutionrelative:ap.demo-project.unittest\\cityrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapp\\components\\pages\\addcity.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\addcity.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapp\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapp\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\cqrs\\city\\getallcitiesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\cqrs\\city\\getallcitiesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.infrastructure\\extensions\\registrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\extensions\\registrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\extentions\\registrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\extentions\\registrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.infrastructure\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.application\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|solutionrelative:ap.demo-project.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapi\\controllers\\apiv1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|solutionrelative:ap.demo-project.webapi\\controllers\\apiv1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.infrastructure\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.infrastructure\\seeding\\countryseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\seeding\\countryseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.infrastructure\\contexts\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\contexts\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.infrastructure\\configuration\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\configuration\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.infrastructure\\configuration\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151830CE-968F-4CA5-8F2E-AD6D4D14B400}|AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj|solutionrelative:ap.demo-project.infrastructure\\configuration\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DDDFA6-775A-4650-92D9-A86B716960C4}|AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.domain\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DDDFA6-775A-4650-92D9-A86B716960C4}|AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj|solutionrelative:ap.demo-project.domain\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\mappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\mappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.application\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\ap.demo-project.webapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|solutionrelative:ap.demo-project.webapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07DDDFA6-775A-4650-92D9-A86B716960C4}|AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.domain\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DDDFA6-775A-4650-92D9-A86B716960C4}|AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj|solutionrelative:ap.demo-project.domain\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|c:\\users\\moula\\onedrive\\bureaublad\\school\\appliedproject\\demo_project\\ap.demo-project.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|solutionrelative:ap.demo-project.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,12 +162,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 16,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -94,67 +222,496 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Mappings.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\Mappings.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Mappings.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\Mappings.cs",
-              "RelativeToolTip": "AP.Demo-Project.Application\\Mappings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T09:10:51.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T09:10:17.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CityController.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebAPI\\Controllers\\CityController.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebAPI\\Controllers\\CityController.cs",
               "RelativeDocumentMoniker": "AP.Demo-Project.WebAPI\\Controllers\\CityController.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.WebAPI\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebAPI\\Controllers\\CityController.cs",
               "RelativeToolTip": "AP.Demo-Project.WebAPI\\Controllers\\CityController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T09:10:03.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CityService.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\Services\\CityService.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Services\\CityService.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\Services\\CityService.cs",
-              "RelativeToolTip": "AP.Demo-Project.Application\\Services\\CityService.cs",
+              "DocumentIndex": 6,
+              "Title": "DeleteCityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\CQRS\\City\\DeleteCityCommand.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\CQRS\\City\\DeleteCityCommand.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\CQRS\\City\\DeleteCityCommand.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\CQRS\\City\\DeleteCityCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:42:21.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FakeEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Services\\FakeEmailService.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Services\\FakeEmailService.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Services\\FakeEmailService.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Services\\FakeEmailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:08:50.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Program.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:40:09.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cities.razor",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Components\\Pages\\Cities.razor",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\Cities.razor",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Components\\Pages\\Cities.razor",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\Cities.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T07:39:58.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cities.razor.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Components\\Pages\\Cities.razor.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\Cities.razor.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Components\\Pages\\Cities.razor.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\Cities.razor.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:31:02.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityWithCountryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\CQRS\\City\\CityWithCountryDTO.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\CQRS\\City\\CityWithCountryDTO.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\CQRS\\City\\CityWithCountryDTO.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\CQRS\\City\\CityWithCountryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:11:21.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteCityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\CQRS\\City\\DeleteCityCommandHandler.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\CQRS\\City\\DeleteCityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\CQRS\\City\\DeleteCityCommandHandler.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\CQRS\\City\\DeleteCityCommandHandler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:43:07.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CitySeeding.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Seeding\\CitySeeding.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Seeding\\CitySeeding.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Seeding\\CitySeeding.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Seeding\\CitySeeding.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:37:48.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCity.razor",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\AddCity.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T07:39:43.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T07:54:23.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T07:54:24.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\DTO\\CountryDTO.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\DTO\\CountryDTO.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\DTO\\CountryDTO.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\DTO\\CountryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:40:08.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CityRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Unittest\\CityRepositoryTests.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Unittest\\CityRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Unittest\\CityRepositoryTests.cs",
+              "RelativeToolTip": "AP.Demo-Project.Unittest\\CityRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:48:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\DTO\\CityDTO.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\DTO\\CityDTO.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebApp\\DTO\\CityDTO.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\DTO\\CityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:40:04.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllCitiesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\CQRS\\City\\GetAllCitiesQuery.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\CQRS\\City\\GetAllCitiesQuery.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\CQRS\\City\\GetAllCitiesQuery.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\CQRS\\City\\GetAllCitiesQuery.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:40:59.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Registrator.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Extensions\\Registrator.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Extensions\\Registrator.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Extensions\\Registrator.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Extensions\\Registrator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:36:53.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Registrator.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Extentions\\Registrator.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Extentions\\Registrator.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Extentions\\Registrator.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\Extentions\\Registrator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:35:46.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:02:12.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:57:42.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Interfaces\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Interfaces\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Interfaces\\ICityRepository.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\Interfaces\\ICityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:12:06.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Interfaces\\ICityService.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Interfaces\\ICityService.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Interfaces\\ICityService.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\Interfaces\\ICityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:12:09.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUnitofWork.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Interfaces\\IUnitofWork.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Interfaces\\IUnitofWork.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Interfaces\\IUnitofWork.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\Interfaces\\IUnitofWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:35:01.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:10:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:10:17.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebAPI\\Program.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebAPI\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:38:29.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "APIv1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebAPI\\Controllers\\APIv1Controller.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebAPI\\Controllers\\APIv1Controller.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebAPI\\Controllers\\APIv1Controller.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebAPI\\Controllers\\APIv1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:38:21.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnitofWork.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\UoW\\UnitofWork.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\UoW\\UnitofWork.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\UoW\\UnitofWork.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\UoW\\UnitofWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:37:51.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CountrySeeding.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Seeding\\CountrySeeding.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Seeding\\CountrySeeding.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Seeding\\CountrySeeding.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Seeding\\CountrySeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:37:49.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DemoContext.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Contexts\\DemoContext.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Contexts\\DemoContext.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Contexts\\DemoContext.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Contexts\\DemoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:36:50.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Configuration\\CityConfiguration.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Configuration\\CityConfiguration.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Configuration\\CityConfiguration.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Configuration\\CityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:36:42.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CountryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Configuration\\CountryConfiguration.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Configuration\\CountryConfiguration.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\Configuration\\CountryConfiguration.cs",
+              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Configuration\\CountryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:36:44.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PageResult.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\PageResult.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\PageResult.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\PageResult.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\PageResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:36:28.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Services\\CityService.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\Services\\CityService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T09:10:10.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
-              "RelativeToolTip": "AP.Demo-Project.Infrastructure\\Repositories\\CityRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Domain\\City.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Domain\\City.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Domain\\City.cs",
+              "RelativeToolTip": "AP.Demo-Project.Domain\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T09:10:18.199Z",
+              "WhenOpened": "2025-09-23T07:13:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Mappings.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Mappings.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Mappings.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Application\\Mappings.cs",
+              "RelativeToolTip": "AP.Demo-Project.Application\\Mappings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T09:10:51.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Domain\\Country.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.Domain\\Country.cs",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Domain\\Country.cs",
+              "RelativeToolTip": "AP.Demo-Project.Domain\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:13:41.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.WebAPI\\appsettings.json",
+              "RelativeToolTip": "AP.Demo-Project.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T07:14:20.477Z",
               "EditorCaption": ""
             }
           ]
