@@ -52,22 +52,27 @@ namespace AP.Demo_Project.WebAPI.Controllers
 
         [Route("{id}")]
         [HttpPut]
-        public IActionResult UpdateCity(int id, [FromBody] City updatedCity)
+        public async Task<IActionResult> UpdateCity(int id, [FromBody] CityUpdateDTO updatedCity)
         {
-            if (id != updatedCity.Id) return BadRequest();
+            if (id != updatedCity.Id)
+                return BadRequest("ID in URL does not match ID in body.");
 
             try
             {
-                // Hier de update!
-                return Ok();
+                var result = await mediator.Send(new UpdateCityCommand { City = updatedCity });// Call service
+                return Ok(result); // Return updated city
             }
             catch (KeyNotFoundException ex)
             {
-                return NotFound(ex.Message);
+                return NotFound(ex.Message); // City not found
+            }
+            catch (InvalidOperationException ex)
+            {
+                return BadRequest(ex.Message); // Validation errors (e.g., duplicate name)
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                return StatusCode(500, ex.Message); // Any other server errors
             }
         }
     }

@@ -46,5 +46,10 @@ namespace AP.Demo_Project.Application.Services
         {
             return await _mediator.Send(new AddCityCommand { City = city });
         }
+
+        public async Task<CityDetailDTO> Update(CityUpdateDTO city)
+        {
+            return await _mediator.Send(new UpdateCityCommand { City = city });
+        }
     }
 }

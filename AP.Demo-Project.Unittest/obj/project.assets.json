@@ -5117,23 +5117,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gebruiker\\.nuget\\packages\\": {},
+    "C:\\Users\\owennolis\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj",
+      "projectUniqueName": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj",
       "projectName": "AP.Demo-Project.Unittest",
-      "projectPath": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj",
-      "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Unittest\\obj\\",
+      "projectPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj",
+      "packagesPath": "C:\\Users\\owennolis\\.nuget\\packages\\",
+      "outputPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Unittest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\owennolis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5142,15 +5142,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj"
+            "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj": {
+              "projectPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj"
             }
           }
         }

@@ -8,5 +8,6 @@ namespace AP.Demo_Project.Application.Interfaces
     {
         public Task<IEnumerable<CityWithCountryDTO>> GetAll(int pageNr, int pageSize, string sortBy, string sortOrder);
         public Task<CityDetailDTO> Add(CityDetailDTO city);
+        Task<CityDetailDTO> Update(CityUpdateDTO city);
     }
 }
