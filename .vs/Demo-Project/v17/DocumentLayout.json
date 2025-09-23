@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\",
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B18A25B-10E6-4598-806A-ED3428BEA4F0}|AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj|c:\\users\\gebruiker\\documents\\ap - toegepaste informatica\\3itsof1 - 2025 - 2026\\applied software project\\demo\\demo-project\\ap.demo-project.unittest\\cityrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B18A25B-10E6-4598-806A-ED3428BEA4F0}|AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj|solutionrelative:ap.demo-project.unittest\\cityrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\mac\\home\\desktop\\demo-project\\ap.demo-project.webapp\\components\\pages\\cityupdate.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\cityupdate.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Unittest\\obj\\Debug\\net8.0\\AP.Demo-Project.Unittest.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AP.Demo-Project.Unittest\\obj\\Debug\\net8.0\\AP.Demo-Project.Unittest.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|c:\\users\\gebruiker\\documents\\ap - toegepaste informatica\\3itsof1 - 2025 - 2026\\applied software project\\demo\\demo-project\\ap.demo-project.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5B9839D-771C-458D-8067-FA9DE0A1EAB6}|AP.Demo-Project.WebAPI\\AP.Demo-Project.WebAPI.csproj|solutionrelative:ap.demo-project.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|c:\\users\\gebruiker\\documents\\ap - toegepaste informatica\\3itsof1 - 2025 - 2026\\applied software project\\demo\\demo-project\\ap.demo-project.application\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D722BDC-497C-4ABD-A883-B138E6B46058}|AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj|solutionrelative:ap.demo-project.application\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|c:\\mac\\home\\desktop\\demo-project\\ap.demo-project.webapp\\components\\pages\\cityupdate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BC5D0AD-F1E6-44F2-AA5E-AF8A70FBFB54}|AP.Demo-Project.WebApp\\AP.Demo-Project.WebApp.csproj|solutionrelative:ap.demo-project.webapp\\components\\pages\\cityupdate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,129 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityUpdate.razor.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor.cs",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor.cs",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor.cs",
+              "ViewState": "AgIAACAAAAAAMzMzMzMrwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:52:50.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AP.Demo-Project.Unittest.GlobalUsings.g.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Unittest\\obj\\Debug\\net8.0\\AP.Demo-Project.Unittest.GlobalUsings.g.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.Unittest\\obj\\Debug\\net8.0\\AP.Demo-Project.Unittest.GlobalUsings.g.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Unittest\\obj\\Debug\\net8.0\\AP.Demo-Project.Unittest.GlobalUsings.g.cs",
-              "RelativeToolTip": "AP.Demo-Project.Unittest\\obj\\Debug\\net8.0\\AP.Demo-Project.Unittest.GlobalUsings.g.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T08:00:34.924Z",
+              "Title": "CityUpdate.razor",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor",
+              "RelativeDocumentMoniker": "AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor",
+              "RelativeToolTip": "AP.Demo-Project.WebApp\\Components\\Pages\\CityUpdate.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T09:49:04.986Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CityRepositoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Unittest\\CityRepositoryTests.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.Unittest\\CityRepositoryTests.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Unittest\\CityRepositoryTests.cs",
-              "RelativeToolTip": "AP.Demo-Project.Unittest\\CityRepositoryTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T07:50:33.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CityService.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Application\\Services\\CityService.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.Application\\Services\\CityService.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.Application\\Services\\CityService.cs",
-              "RelativeToolTip": "AP.Demo-Project.Application\\Services\\CityService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T07:42:43.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "AP.Demo-Project.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Gebruiker\\Documents\\AP - Toegepaste Informatica\\3ITSOF1 - 2025 - 2026\\Applied Software Project\\demo\\Demo-Project\\AP.Demo-Project.WebAPI\\Program.cs",
-              "RelativeToolTip": "AP.Demo-Project.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T00:25:12.847Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 743,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaXRpZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Mac/Home/Desktop/Demo-Project/AP.Demo-Project.WebApp/Components/Pages/CityUpdate.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaXR5VXBkYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Mac/Home/Desktop/Demo-Project/AP.Demo-Project.WebApp/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

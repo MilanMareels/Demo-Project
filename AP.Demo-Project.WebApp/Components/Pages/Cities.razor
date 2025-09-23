@@ -48,6 +48,9 @@ else
                     <td>@city.Name</td>
                     <td>@city.Population</td>
                     <td>@city.Country?.Name</td>
+                    <td>
+                        <button class="btn btn-sm btn-warning" @onclick="() => NavigateToUpdate(city.Id)">Update</button>
+                    </td>
                 </tr>
             }
         </tbody>

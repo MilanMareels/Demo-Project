@@ -71,6 +71,13 @@ namespace AP.Demo_Project.WebApp.Components.Pages{
             }
         }
 
+        [Inject] private NavigationManager Navigation { get; set; }
+
+        private void NavigateToUpdate(int cityId)
+        {
+            Navigation.NavigateTo($"/cities/update/{cityId}");
+        }
+
         private bool CanPrevious => pageNr > 1;
         private bool CanNext => cities.Count == pageSize; // Next page check
     }

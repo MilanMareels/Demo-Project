@@ -10,3 +10,15 @@ C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\A
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\refint\AP.Demo-Project.Domain.dll
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\AP.Demo-Project.Domain.pdb
 C:\Users\Gebruiker\Documents\AP - Toegepaste Informatica\3ITSOF1 - 2025 - 2026\Applied Software Project\demo\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\ref\AP.Demo-Project.Domain.dll
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\bin\Debug\net8.0\AP.Demo-Project.Domain.deps.json
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\bin\Debug\net8.0\AP.Demo-Project.Domain.dll
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\bin\Debug\net8.0\AP.Demo-Project.Domain.pdb
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\AP.Demo-Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\AP.Demo-Project.Domain.AssemblyInfoInputs.cache
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\AP.Demo-Project.Domain.AssemblyInfo.cs
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\AP.Demo-Project.Domain.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\AP.Demo-Project.Domain.sourcelink.json
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\AP.Demo-Project.Domain.dll
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\refint\AP.Demo-Project.Domain.dll
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\AP.Demo-Project.Domain.pdb
+C:\Mac\Home\Desktop\Demo-Project\AP.Demo-Project.Domain\obj\Debug\net8.0\ref\AP.Demo-Project.Domain.dll
