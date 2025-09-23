@@ -8,8 +8,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.9" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
     <PackageReference Include="MSTest" Version="3.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AP.Demo-Project.Application\AP.Demo-Project.Application.csproj" />
+    <ProjectReference Include="..\AP.Demo-Project.Domain\AP.Demo-Project.Domain.csproj" />
+    <ProjectReference Include="..\AP.Demo-Project.Infrastructure\AP.Demo-Project.Infrastructure.csproj" />
+    <ProjectReference Include="..\AP.Demo-Project.WebAPI\AP.Demo-Project.WebAPI.csproj" />
   </ItemGroup>
 
   <ItemGroup>
