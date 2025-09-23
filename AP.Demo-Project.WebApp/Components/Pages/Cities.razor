@@ -1,0 +1,72 @@
+﻿@page "/cities"
+@rendermode InteractiveServer
+@inject HttpClient Http
+
+<h3>Cities</h3>
+
+<div class="mb-3">
+    <button class="btn btn-primary me-2" @onclick="() => SortByPopulation(true)">Sort Population ↑</button>
+    <button class="btn btn-primary me-2" @onclick="() => SortByPopulation(false)">Sort Population ↓</button>
+    <NavLink class="btn btn-success" href="addCity">
+      Add City
+    </NavLink>
+ 
+</div>
+
+<div class="mb-3">
+    <label for="pageSizeSelect" class="form-label me-2">Page Size:</label>
+    <select id="pageSizeSelect" class="form-select d-inline-block w-auto" @onchange="OnPageSizeChanged">
+        @foreach (var size in pageSizes)
+        {
+            <option value="@size" selected="@(size == pageSize)">@size</option>
+        }
+    </select>
+</div>
+
+@if (isLoading)
+{
+    <div class="spinner-border text-primary" role="status">
+        <span class="visually-hidden">Loading...</span>
+    </div>
+}
+else if (cities == null || !cities.Any())
+{
+    <p>No cities found.</p>
+}
+else
+{
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Population</th>
+                <th>Country</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var city in cities)
+            {
+                <tr>
+                    <td>@city.Id</td>
+                    <td>@city.Name</td>
+                    <td>@city.Population</td>
+                    <td>@city.Country?.Name</td>
+                    <td>
+                        <button class="btn btn-danger btn-sm" @onclick="() => DeleteCity(city.Id)">Delete</button>
+                    </td>
+                    <td>
+                        <button class="btn btn-sm btn-primary" @onclick="() => NavigateToUpdate(city.Id)">Update</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="d-flex justify-content-between align-items-center">
+        <button class="btn btn-secondary" @onclick="PreviousPage" disabled="@(!CanPrevious)">Previous</button>
+        <span>Page @pageNr</span>
+        <button class="btn btn-secondary" @onclick="NextPage" disabled="@(!CanNext)">Next</button>
+    </div>
+}
+

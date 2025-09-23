@@ -1,0 +1,31 @@
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.csproj.AssemblyReference.cache
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.AssemblyInfoInputs.cache
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.AssemblyInfo.cs
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Application.deps.json
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Application.dll
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Application.pdb
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Domain.dll
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Domain.pdb
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-.8B09804E.Up2Date
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.dll
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\refint\AP.Demo-Project.Application.dll
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.pdb
+C:\Users\milan\Desktop\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\ref\AP.Demo-Project.Application.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Application.deps.json
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Application.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Application.pdb
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Domain.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\bin\Debug\net8.0\AP.Demo-Project.Domain.pdb
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.csproj.AssemblyReference.cache
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.AssemblyInfoInputs.cache
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.AssemblyInfo.cs
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.sourcelink.json
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-.8B09804E.Up2Date
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\refint\AP.Demo-Project.Application.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\AP.Demo-Project.Application.pdb
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.Application\obj\Debug\net8.0\ref\AP.Demo-Project.Application.dll
