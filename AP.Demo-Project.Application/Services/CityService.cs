@@ -3,6 +3,7 @@ using AP.Demo_Project.Application.CQRS.Country;
 using AP.Demo_Project.Application.Interfaces;
 using AP.Demo_Project.Domain;
 using AutoMapper;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,11 +16,13 @@ namespace AP.Demo_Project.Application.Services
     {
         private readonly IUnitofWork uow;
         private readonly IMapper _mapper;
+        private readonly IMediator _mediator;
 
-        public CityService(IUnitofWork uow, IMapper mapper)
+        public CityService(IUnitofWork uow, IMapper mapper, IMediator mediator)
         {
             this.uow = uow;
             this._mapper = mapper;
+            this._mediator = mediator;
         }
 
         public async Task<IEnumerable<CityWithCountryDTO>> GetAll(int pageNr, int pageSize, string sortBy, string sortOrder)
@@ -39,12 +42,9 @@ namespace AP.Demo_Project.Application.Services
             return _mapper.Map<IEnumerable<CityWithCountryDTO>>(cities);
         }
 
-
         public async Task<CityDetailDTO> Add(CityDetailDTO city)
         {
-            await uow.CityRepository.AddCity(city);
-            await uow.Commit();
-            return city;
+            return await _mediator.Send(new AddCityCommand { City = city });
         }
     }
 }
