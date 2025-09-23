@@ -32,8 +32,8 @@ namespace AP.Demo_Project.WebAPI.Controllers
         {
            try
            {
-                //return Created("", await mediator.Send(new AddCommand() { Person = person }));
-                return Created("", await cityService.Add(city));
+                return Created("", await mediator.Send(new AddCityCommand() { City = city }));
+                //return Created("", await cityService.Add(city));
            }
            catch (ArgumentOutOfRangeException ex)
            {

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj": {}
+    "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj": {
+    "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj",
+        "projectUniqueName": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj",
         "projectName": "AP.Demo-Project.Application",
-        "projectPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj",
-        "packagesPath": "C:\\Users\\owennolis\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Application\\obj\\",
+        "projectPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj",
+        "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\owennolis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\milan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj": {
-                "projectPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj"
+              "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj"
               }
             }
           }
@@ -46,9 +46,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -91,24 +91,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj": {
+    "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj",
         "projectName": "AP.Demo-Project.Domain",
-        "projectPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj",
-        "packagesPath": "C:\\Users\\owennolis\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Domain\\obj\\",
+        "projectPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj",
+        "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\owennolis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\milan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -133,9 +133,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -156,24 +156,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj": {
+    "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj",
         "projectName": "AP.Demo-Project.Infrastructure",
-        "projectPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\owennolis\\.nuget\\packages\\",
-        "outputPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\owennolis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\milan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -188,11 +188,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj": {
-                "projectPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj"
+              "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj": {
+                "projectPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Application\\AP.Demo-Project.Application.csproj"
               },
-              "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj": {
-                "projectPath": "C:\\Mac\\Home\\Desktop\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj"
+              "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj": {
+                "projectPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj"
               }
             }
           }
@@ -205,9 +205,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -250,7 +250,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
