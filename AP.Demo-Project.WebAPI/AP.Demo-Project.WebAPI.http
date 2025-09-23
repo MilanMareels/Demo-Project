@@ -1,6 +1,0 @@
-@AP.Demo_Project.WebAPI_HostAddress = http://localhost:5028
-
-GET {{AP.Demo_Project.WebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
