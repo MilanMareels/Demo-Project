@@ -21,7 +21,7 @@ namespace AP.Demo_Project.Application.CQRS.City
 
         public async Task<bool> Handle(DeleteCityCommand request, CancellationToken cancellationToken)
         {
-            var cities = await _uow.CityRepository.GetAll(1, int.MaxValue);
+            var cities = await _uow.CityRepository.GetCitiesAll();
 
             if (!cities.Any())
                 throw new InvalidOperationException("No cities found.");

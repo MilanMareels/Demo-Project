@@ -5117,23 +5117,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\moula\\.nuget\\packages\\": {},
+    "C:\\Users\\milan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj",
+      "projectUniqueName": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj",
       "projectName": "AP.Demo-Project.Unittest",
-      "projectPath": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj",
-      "packagesPath": "C:\\Users\\moula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Unittest\\obj\\",
+      "projectPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Unittest\\AP.Demo-Project.Unittest.csproj",
+      "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Unittest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\moula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\milan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5148,8 +5148,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\moula\\OneDrive\\Bureaublad\\school\\AppliedProject\\demo_project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj"
+            "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Infrastructure\\AP.Demo-Project.Infrastructure.csproj"
             }
           }
         }
@@ -5162,9 +5162,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -5199,7 +5199,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
