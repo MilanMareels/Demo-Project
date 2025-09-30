@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -70,7 +71,7 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             await context.SaveChangesAsync();
         }
 
-        
+
         public async Task<CityDetailDTO> UpdateCity(CityUpdateDTO city)
         {
             var entity = await context.Cities.FindAsync(city.Id);
