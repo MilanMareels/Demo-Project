@@ -16,20 +16,4 @@ namespace AP.Demo_Project.Application.CQRS.City
         public string SortBy { get; set; }
         public string SortOrder { get; set; }
     }
-
-    public class GetAllCitiesQueryHandler : IRequestHandler<GetAllCitiesQuery, IEnumerable<CityWithCountryDTO>>
-    {
-        private readonly IUnitofWork uow;
-        private readonly IMapper mapper;
-
-        public GetAllCitiesQueryHandler(IUnitofWork uow, IMapper mapper)
-        {
-            this.uow = uow;
-            this.mapper = mapper;
-        }
-        public async Task<IEnumerable<CityWithCountryDTO>> Handle(GetAllCitiesQuery request, CancellationToken cancellationToken)
-        {
-            return mapper.Map<IEnumerable<CityWithCountryDTO>>(await uow.CityRepository.GetAll(request.PageNr, request.PageSize, request.SortBy, request.SortOrder, c => c.Country));
-        }
-    }
 }

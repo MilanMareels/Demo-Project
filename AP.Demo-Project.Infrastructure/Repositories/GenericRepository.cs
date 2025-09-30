@@ -20,35 +20,11 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             this.dbSet = context.Set<T>();
         }
 
-        public async Task<IEnumerable<City>> GetAll(int pageNr, int pageSize, string sortBy, string sortOrder, params Expression<Func<City, object>>[] includes)
+        public IQueryable<T> GetAll()
         {
-            IQueryable<City> query = (IQueryable<City>)this.dbSet;
-
-
-            foreach (var include in includes)
-            {
-                query = query.Include(include);
-            }
-
-            query = (sortBy?.ToLower(), sortOrder?.ToLower()) switch
-            {
-                ("population", "asc") => query.OrderBy(c => c.Population),
-                ("population", "desc") => query.OrderByDescending(c => c.Population),
-                ("name", "asc") => query.OrderBy(c => c.Name),
-                ("name", "desc") => query.OrderByDescending(c => c.Name),
-                _ => query.OrderBy(c => c.Id)
-            };
-
-            query = query.Skip((pageNr - 1) * pageSize).Take(pageSize);
-
-            return await query.ToListAsync();
+            return dbSet.AsQueryable();
         }
 
-        public async Task<IEnumerable<T>> GetCitiesAll()
-        {
-            return await dbSet.ToListAsync();
-        }
-        
         public async Task<T> AddAsync(T entity)
         {
             await dbSet.AddAsync(entity);
@@ -58,6 +34,11 @@ namespace AP.Demo_Project.Infrastructure.Repositories
         public async Task DeleteAsync(T entity)
         {
             dbSet.Remove(entity);
+        }
+
+        public void Update(T entity)
+        {
+            dbSet.Update(entity);
         }
 
         public async Task<City> GetByIdAsync(int id, params Expression<Func<City, object>>[] includes)
@@ -71,6 +52,5 @@ namespace AP.Demo_Project.Infrastructure.Repositories
 
             return await query.FirstOrDefaultAsync(x => x.Id == id);
         }
-
     }
 }

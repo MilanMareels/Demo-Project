@@ -8,10 +8,12 @@ using System.Threading.Tasks;
 
 namespace AP.Demo_Project.Application.Interfaces
 {
-    public interface IGenericRepository<T>
+    public interface IGenericRepository<T> where T : class
     {
-        Task<IEnumerable<T>> GetAll(int pageNr, int pageSize, string SortBy, string SortOrder, params Expression<Func<T, object>>[] includes);
-        Task<IEnumerable<T>> GetCitiesAll();
+        IQueryable<T> GetAll();
         Task<T> GetByIdAsync(int id, params Expression<Func<City, object>>[] includes);
+        Task<T> AddAsync(T entity);
+        Task DeleteAsync(T entity);
+        void Update(T entity);
     }
 }

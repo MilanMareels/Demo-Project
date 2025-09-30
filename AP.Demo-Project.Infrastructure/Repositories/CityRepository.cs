@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -55,34 +56,6 @@ namespace AP.Demo_Project.Infrastructure.Repositories
         {
             context.Cities.Remove(city);
             await context.SaveChangesAsync();
-        }
-
-        
-        public async Task<CityDetailDTO> UpdateCity(CityUpdateDTO city)
-        {
-            var entity = await context.Cities.FindAsync(city.Id);
-
-            if (entity == null)
-                throw new KeyNotFoundException("City not found.");
-
-            if (city.Population <= 0 || city.Population > 10_000_000_000L)
-                throw new ArgumentOutOfRangeException(nameof(city.Population), "Population must be between 0 and 10,000,000,000.");
-
-            if (city.CountryId <= 0)
-                throw new ArgumentOutOfRangeException(nameof(city.CountryId), "A country must be selected.");
-
-        
-            entity.Population = city.Population;
-            entity.CountryId = city.CountryId;
-
-            context.Cities.Update(entity);
-            await context.SaveChangesAsync();
-
-            return new CityDetailDTO
-            {
-                Population = entity.Population,
-                CountryId = entity.CountryId
-            };
-        }
+        } 
     }
 }
