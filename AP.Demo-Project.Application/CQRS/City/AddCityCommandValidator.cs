@@ -48,7 +48,7 @@ namespace AP.Demo_Project.Application.CQRS.City
                     if (string.IsNullOrWhiteSpace(name))
                         return true;
 
-                    var existingCities = await uow.CityRepository.GetCitiesAll();
+                    var existingCities = uow.CityRepository.GetAll();
                     var normalizedName = name.Trim();
                     return !existingCities.Any(c => c.Name.Equals(normalizedName, StringComparison.OrdinalIgnoreCase));
                 })

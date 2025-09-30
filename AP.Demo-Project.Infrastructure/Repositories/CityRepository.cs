@@ -34,15 +34,6 @@ namespace AP.Demo_Project.Infrastructure.Repositories
 
             context.Cities.Add(entity);
 
-            //try
-            //{
-            //    context.SaveChanges();
-            //}
-            //catch (DbUpdateException ex)
-            //{
-            //    throw new InvalidOperationException("A city with this name already exists.", ex);
-            //}
-
             return Task.FromResult(new CityDetailDTO
             {
                 Name = entity.Name,
@@ -50,12 +41,5 @@ namespace AP.Demo_Project.Infrastructure.Repositories
                 CountryId = entity.CountryId
             });
         }
-
-        
-        public async Task DeleteAsync(City city)
-        {
-            context.Cities.Remove(city);
-            await context.SaveChangesAsync();
-        } 
     }
 }

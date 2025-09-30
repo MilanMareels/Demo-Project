@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace AP.Demo_Project.Application.CQRS.City
 {
-    /*
     public class DeleteCityCommandHandler : IRequestHandler<DeleteCityCommand, bool>
     {
         private readonly IUnitofWork _uow;
@@ -44,5 +43,4 @@ namespace AP.Demo_Project.Application.CQRS.City
             return true;
         } 
     }
-    */
 }
