@@ -52,14 +52,12 @@ namespace AP.Demo_Project.Infrastructure.Repositories
         public async Task<T> AddAsync(T entity)
         {
             await dbSet.AddAsync(entity);
-            await context.SaveChangesAsync();
             return entity;
         }
 
         public async Task DeleteAsync(T entity)
         {
             dbSet.Remove(entity);
-           await context.SaveChangesAsync();
         }
 
         public async Task<City> GetByIdAsync(int id, params Expression<Func<City, object>>[] includes)

@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{585A5041-4002-43E1-B098-A2DEFC45E057}|Unittests\\Unittests.csproj|c:\\users\\milan\\desktop\\ap-school\\bachelor\\lessen\\applied software project\\demo project\\demo-project\\unittests\\cityupdatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{585A5041-4002-43E1-B098-A2DEFC45E057}|Unittests\\Unittests.csproj|solutionrelative:unittests\\cityupdatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,19 +70,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CityUpdateTests.cs",
-              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\Unittests\\CityUpdateTests.cs",
-              "RelativeDocumentMoniker": "Unittests\\CityUpdateTests.cs",
-              "ToolTip": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\Unittests\\CityUpdateTests.cs",
-              "RelativeToolTip": "Unittests\\CityUpdateTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T17:10:59.253Z",
-              "EditorCaption": ""
             }
           ]
         },

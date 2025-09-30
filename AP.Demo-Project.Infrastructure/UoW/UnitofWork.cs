@@ -19,6 +19,7 @@ namespace AP.Demo_Project.Infrastructure.UoW
             this.cityRepository = cityRepository;
         }
         public ICityRepository CityRepository => cityRepository;
+
         public async Task Commit()
         {
             await context.SaveChangesAsync();
