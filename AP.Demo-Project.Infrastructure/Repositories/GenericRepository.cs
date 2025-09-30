@@ -36,6 +36,11 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             dbSet.Remove(entity);
         }
 
+        public void Update(T entity)
+        {
+            dbSet.Update(entity);
+        }
+
         public async Task<City> GetByIdAsync(int id, params Expression<Func<City, object>>[] includes)
         {
             IQueryable<City> query = (IQueryable<City>)dbSet.AsQueryable();
