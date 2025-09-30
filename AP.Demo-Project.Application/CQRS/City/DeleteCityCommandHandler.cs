@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace AP.Demo_Project.Application.CQRS.City
 {
+    /*
     public class DeleteCityCommandHandler : IRequestHandler<DeleteCityCommand, bool>
     {
         private readonly IUnitofWork _uow;
@@ -19,9 +20,10 @@ namespace AP.Demo_Project.Application.CQRS.City
             _emailService = emailService;
         }
 
+        
         public async Task<bool> Handle(DeleteCityCommand request, CancellationToken cancellationToken)
         {
-            var cities = await _uow.CityRepository.GetCitiesAll();
+            var cities =  _uow.CityRepository.GetAll();
 
             if (!cities.Any())
                 throw new InvalidOperationException("No cities found.");
@@ -40,6 +42,7 @@ namespace AP.Demo_Project.Application.CQRS.City
             await _emailService.SendCityDeletedEmail(city.Name);
 
             return true;
-        }
+        } 
     }
+    */
 }

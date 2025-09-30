@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "SpVA7CSYOzc=",
+=======
   "dgSpecHash": "9ulHW9+rn8o=",
+>>>>>>> main
   "success": true,
   "projectFilePath": "/Users/owennolis/Desktop/Demo-Project/AP.Demo-Project.Infrastructure/AP.Demo-Project.Infrastructure.csproj",
   "expectedPackageFiles": [

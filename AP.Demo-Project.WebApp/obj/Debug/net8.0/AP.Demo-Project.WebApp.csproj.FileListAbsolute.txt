@@ -93,3 +93,12 @@ C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo P
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\AP.Demo-Project.WebApp.pdb
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\AP.Demo-Project.WebApp.genruntimeconfig.cache
 C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\obj\Debug\net8.0\ref\AP.Demo-Project.WebApp.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\milan\Desktop\AP-School\Bachelor\Lessen\Applied software project\Demo Project\Demo-Project\AP.Demo-Project.WebApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
