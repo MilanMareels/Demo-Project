@@ -7,6 +7,5 @@ namespace AP.Demo_Project.Application.Interfaces
     {
         Task<CityDetailDTO> AddCity(CityDetailDTO city);
         Task DeleteAsync(City city);
-        Task<CityDetailDTO> UpdateCity(CityUpdateDTO city);
     }
 }

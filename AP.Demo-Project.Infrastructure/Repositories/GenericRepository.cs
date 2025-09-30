@@ -24,7 +24,6 @@ namespace AP.Demo_Project.Infrastructure.Repositories
         {
             IQueryable<City> query = (IQueryable<City>)this.dbSet;
 
-
             foreach (var include in includes)
             {
                 query = query.Include(include);
@@ -58,6 +57,11 @@ namespace AP.Demo_Project.Infrastructure.Repositories
         public async Task DeleteAsync(T entity)
         {
             dbSet.Remove(entity);
+        }
+
+        public void Update(T entity)
+        {
+            dbSet.Update(entity);
         }
 
         public async Task<City> GetByIdAsync(int id, params Expression<Func<City, object>>[] includes)
