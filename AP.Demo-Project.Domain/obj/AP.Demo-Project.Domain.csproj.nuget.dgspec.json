@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj": {}
+    "/Users/owennolis/Desktop/Demo-Project/AP.Demo-Project.Domain/AP.Demo-Project.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj": {
+    "/Users/owennolis/Desktop/Demo-Project/AP.Demo-Project.Domain/AP.Demo-Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj",
+        "projectUniqueName": "/Users/owennolis/Desktop/Demo-Project/AP.Demo-Project.Domain/AP.Demo-Project.Domain.csproj",
         "projectName": "AP.Demo-Project.Domain",
-        "projectPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\AP.Demo-Project.Domain.csproj",
-        "packagesPath": "C:\\Users\\milan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milan\\Desktop\\AP-School\\Bachelor\\Lessen\\Applied software project\\Demo Project\\Demo-Project\\AP.Demo-Project.Domain\\obj\\",
+        "projectPath": "/Users/owennolis/Desktop/Demo-Project/AP.Demo-Project.Domain/AP.Demo-Project.Domain.csproj",
+        "packagesPath": "/Users/owennolis/.nuget/packages/",
+        "outputPath": "/Users/owennolis/Desktop/Demo-Project/AP.Demo-Project.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\milan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/owennolis/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,9 +36,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

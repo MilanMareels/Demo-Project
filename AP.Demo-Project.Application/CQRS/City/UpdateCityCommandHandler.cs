@@ -19,9 +19,27 @@ namespace AP.Demo_Project.Application.CQRS.City
 
         public async Task<CityDetailDTO> Handle(UpdateCityCommand request, CancellationToken cancellationToken)
         {
-            var updated = await uow.CityRepository.UpdateCity(request.City);
+            // Get the existing city entity
+            var existingCity = await uow.CityRepository.GetByIdAsync(request.City.Id);
+            
+            if (existingCity == null)
+                throw new KeyNotFoundException("City not found.");
+
+            // Update the entity properties
+            existingCity.Population = request.City.Population;
+            existingCity.CountryId = request.City.CountryId;
+
+            // Use the generic Update method
+            uow.CityRepository.Update(existingCity);
             await uow.Commit();
-            return updated;
+
+            // Return the updated data as DTO
+            return new CityDetailDTO
+            {
+                Name = existingCity.Name,
+                Population = existingCity.Population,
+                CountryId = existingCity.CountryId
+            };
         }
     }
 }
