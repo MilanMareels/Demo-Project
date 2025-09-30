@@ -8,13 +8,13 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace AP.Demo_Project.Application.CQRS.City
+namespace AP.Demo_Project.Application.CQRS.City.Validations
 {
     public class AddCityCommandValidator : AbstractValidator<AddCityCommand>
     {
         private readonly IUnitofWork uow;
 
-        public AddCityCommandValidator(IUnitofWork uow) 
+        public AddCityCommandValidator(IUnitofWork uow)
         {
             this.uow = uow;
 
