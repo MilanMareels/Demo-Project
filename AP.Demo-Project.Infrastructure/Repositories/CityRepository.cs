@@ -22,21 +22,8 @@ namespace AP.Demo_Project.Infrastructure.Repositories
         
         public Task<CityDetailDTO> AddCity(CityDetailDTO city)
         {
-            // Server-side validation (same rules as client)
-            if (string.IsNullOrWhiteSpace(city.Name))
-                throw new ArgumentException("Name is required.", nameof(city.Name));
-
-            if (city.Population <= 0 || city.Population > 10_000_000_000L)
-                throw new ArgumentOutOfRangeException(nameof(city.Population), "Population must be between 0 and 10,000,000,000.");
-
-            if (city.CountryId <= 0)
-                throw new ArgumentOutOfRangeException(nameof(city.CountryId), "A country must be selected.");
-
-            // Uniqueness check (pre-check)
             var normalizedName = city.Name.Trim();
-            if (context.Cities.Any(c => c.Name == normalizedName))
-                throw new InvalidOperationException("A city with this name already exists.");
-
+            
             var entity = new City
             {
                 Name = normalizedName,
@@ -46,14 +33,14 @@ namespace AP.Demo_Project.Infrastructure.Repositories
 
             context.Cities.Add(entity);
 
-            try
-            {
-                context.SaveChanges();
-            }
-            catch (DbUpdateException ex)
-            {
-                throw new InvalidOperationException("A city with this name already exists.", ex);
-            }
+            //try
+            //{
+            //    context.SaveChanges();
+            //}
+            //catch (DbUpdateException ex)
+            //{
+            //    throw new InvalidOperationException("A city with this name already exists.", ex);
+            //}
 
             return Task.FromResult(new CityDetailDTO
             {
@@ -78,7 +65,6 @@ namespace AP.Demo_Project.Infrastructure.Repositories
             if (entity == null)
                 throw new KeyNotFoundException("City not found.");
 
-            // Server-side validation
             if (city.Population <= 0 || city.Population > 10_000_000_000L)
                 throw new ArgumentOutOfRangeException(nameof(city.Population), "Population must be between 0 and 10,000,000,000.");
 
